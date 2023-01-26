@@ -56,7 +56,6 @@ export const ContactForm = () => {
     reset();
   };
 
-
   const reset = () => {
     setName('');
     setNumber('');
