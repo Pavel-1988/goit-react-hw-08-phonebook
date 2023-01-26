@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-08-phonebook",
+  "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://Pavel-1988.github.io/goit-react-hw-08-phonebook/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
