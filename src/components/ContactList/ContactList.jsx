@@ -1,7 +1,7 @@
 import { React } from 'react';
 import { useSelector } from 'react-redux';
 import { List, RotatingDiv } from './ContactList.styled';
-import { useFetchContactsQuery } from 'redux/contactsApi';
+import { useFetchContactsQuery } from 'API/contactsApi';
 import ContactListItem from '../ContactListItem/ContactListItem'
 
 import { RotatingLines } from  'react-loader-spinner'

@@ -1,5 +1,5 @@
 import React from "react";
-import { useDeleteContactMutation } from "redux/contactsApi";
+import { useDeleteContactMutation } from "API/contactsApi";
 import { List } from "./ContactListItem.styled";
 import { toast } from 'react-toastify';
 import { useEffect } from 'react';

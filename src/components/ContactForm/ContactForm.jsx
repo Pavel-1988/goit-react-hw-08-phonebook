@@ -1,5 +1,5 @@
 import { React } from 'react';
-import { useAddContactMutation, useFetchContactsQuery} from 'redux/contactsApi';
+import { useAddContactMutation, useFetchContactsQuery} from 'API/contactsApi';
 import { FormContainer, ListSpan, ListInput, } from './ContactForm.styled';
 import { toast } from 'react-toastify';
 
